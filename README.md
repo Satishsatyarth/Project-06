@@ -15,5 +15,3 @@ This project is created purely for **learning and practicing** front-end skills.
 * How to structure a webpage using HTML.
 * How to style elements using different CSS properties.
 * How to create responsive and visually appealing layouts.
-
-Let me know if you'd like to add sections like *Screenshots*, *Live Demo*, or *Features*.
